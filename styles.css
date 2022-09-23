@@ -1,0 +1,33 @@
+.container {
+  width: 600px;
+  margin: auto;
+
+  font-size: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+  border-bottom: 1px solid #ccc;
+
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+}
+
+table {
+  width: 100%;
+
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid lightgray;
+
+  padding: 15px;
+}
+
+.error {
+  background-color: lightpink;
+  border: 1px solid palevioletred;
+
+  padding: 15px;
+}
